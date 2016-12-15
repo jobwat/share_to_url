@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ShareUrl.iml" filepath="$PROJECT_DIR$/ShareUrl.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share_to_url.iml" filepath="$PROJECT_DIR$/share_to_url.iml" />
     </modules>
   </component>
 </project>
